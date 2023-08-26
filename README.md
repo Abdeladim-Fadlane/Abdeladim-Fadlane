@@ -13,5 +13,6 @@ I'm software engineer with a passion for science
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdeladim-Fadlane&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Abdeladim-Fadlane&label=&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
