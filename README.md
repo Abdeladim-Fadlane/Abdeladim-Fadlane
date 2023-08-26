@@ -15,5 +15,10 @@ I'm software engineer with a passion for science
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdeladim-Fadlane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
