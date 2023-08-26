@@ -2,7 +2,7 @@
 # 💫 About Me:
 # I'm software engineer with a passion for science
 ***
-<h1> [![afadlane's 42 stats](https://badge.mediaplus.ma/binary/afadlane)](https://github.com/oakoudad/badge42)</h1>
+[![afadlane's 42 stats](https://badge.mediaplus.ma/binary/afadlane)](https://github.com/oakoudad/badge42)
 
 ***
 # 💻 Tech Stack:
