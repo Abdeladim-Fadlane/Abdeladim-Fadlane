@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/afadlane" alt="afadlane's 42 stats">
+    <img src="https://badge.mediaplus.ma/darkblue/afadlane" alt="afadlane's 42 stats">
   </a>
 </p>
-
+[![afadlane's 42 stats](https://badge.mediaplus.ma/darkblue/afadlane)](https://github.com/oakoudad/badge42)
 ***
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
