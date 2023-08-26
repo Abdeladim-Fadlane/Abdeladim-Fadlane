@@ -2,7 +2,12 @@
 # 💫 About Me:
 
 
-[![afadlane's 42 stats](https://badge.mediaplus.ma/darkblue/afadlane)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/afadlane" alt="afadlane's 42 stats">
+  </a>
+</p>
+
 ***
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
