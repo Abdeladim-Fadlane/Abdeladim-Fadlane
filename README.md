@@ -1,6 +1,7 @@
 
 # 💫 About Me:
 <p align="center">I'm a software engineer with a passion for science</p>
+***
 [![afadlane's 42 stats](https://badge.mediaplus.ma/binary/afadlane)](https://github.com/oakoudad/badge42)
 
 ***
