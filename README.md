@@ -13,7 +13,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
   ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
-  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="100" height="100"/> </a> <a
+  <img src="https://camo.githubusercontent.com/45aafa6a92bcbf1f56624dbfaa4266d009c8efff27db83649b89805b43fec21f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742d2532333132313031312e7376673f7374796c653d666c6174266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465" alt="Shell Script" data-canonical-src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&amp;logo=gnu-bash&amp;logoColor=white" style="max-width: 100%;">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeladim-Fadlane&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
