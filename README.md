@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/darkblue/afadlane" alt="afadlane's 42 stats">
-    [![](https://visitcount.itsvg.in/api?id=Abdeladim-Fadlane&icon=6&color=0)](https://visitcount.itsvg.in)
   </a>
 </p>
 
@@ -18,7 +17,7 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeladim-Fadlane&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+[![](https://visitcount.itsvg.in/api?id=Abdeladim-Fadlane&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
