@@ -9,6 +9,8 @@
 </p>
 
 ## 💻 I am currently learning:
+![CLI](https://img.shields.io/badge/cli-%23212121.svg?style=plastic&logo=command-line-interface&logoColor=white)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
