@@ -9,8 +9,6 @@
 </p>
 
 ## 💻 I am currently learning:
-![CLI](https://img.shields.io/badge/cli-%23212121.svg?style=plastic&logo=command-line-interface&logoColor=white)
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -21,7 +19,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![Bash Shell](https://img.shields.io/badge/bash-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white) 
 ![Docker Compose](https://img.shields.io/badge/docker--compose-%231793D1.svg?style=plastic&logo=docker&logoColor=white) 
-![Makefile](https://img.shields.io/badge/make-%230C63A5.svg?style=plastic&logo=gnu-make&logoColor=white)
+![make](https://img.shields.io/badge/make-%230C63A5.svg?style=plastic&logo=gnu-make&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
