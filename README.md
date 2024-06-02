@@ -16,8 +16,10 @@
     <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,discord,linkedin,mysql," />
 </div>
 
-<div aling="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeladim-        Fadlane&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeladim-Fadlane&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
