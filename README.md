@@ -6,13 +6,13 @@
   </a>
 </p>
 
-## 💻 Languages and Tools :
+## 💻 Tech Stack:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,github,html,js,linux,postgres,postman,py,vscode,agile,scrum" />
+    <img src="https://skillicons.dev/icons?i=django,github,html,js,linux,postgres,postman,py,vscode,express,react" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,discord,linkedin,mysql,nodejs,express,api" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,discord,linkedin,mysql,nodejs,redis,vercel" />
 </div>
 
 <div align="center">
