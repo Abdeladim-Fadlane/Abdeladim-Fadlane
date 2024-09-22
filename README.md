@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 
 <p align="center">
@@ -13,13 +12,9 @@
     <img src="https://skillicons.dev/icons?i=django,github,html,js,linux,postgres,postman,py,vscode,agile,scrum" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,discord,linkedin,mysql,nodejs,ecxpress,api" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,discord,linkedin,mysql,nodejs,express,api" />
 </div>
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeladim-Fadlane&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeladim-Fadlane&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
