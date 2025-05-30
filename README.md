@@ -1,6 +1,5 @@
 # 💫 About Me:
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=spacing&pause=1000&color=3FCEF7&width=435&lines=Hi%2C+I'm+Abdeladim+Fadlane+%F0%9F%91%8B;+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=spacing&pause=1000&color=3FCEF7&center=true&width=435&height=100&lines=Hi%2C+I'm+Abdeladim+Fadlane+%F0%9F%91%8B;+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Developer)](https://git.io/typing-svg)
 ## 💻 Tech Stack:
 
 <div align="center">
