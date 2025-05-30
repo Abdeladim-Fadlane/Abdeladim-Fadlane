@@ -1,10 +1,5 @@
 # 💫 About Me:
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/afadlane" alt="afadlane's 42 stats">
-  </a>
-</p>
 
 ## 💻 Tech Stack:
 
