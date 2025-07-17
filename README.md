@@ -6,10 +6,10 @@
 ## 💻 Tech Stack:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,github,html,js,linux,postgres,postman,py,vscode,express,react,pycharm" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,django,github,html,js,linux,postgres,postman,py,vscode,express,react,pycharm,aws" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,discord,linkedin,mysql,nodejs,redis,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,c,vim,cpp,discord,linkedin,mysql,nodejs,redis,vercel,ansible,gitlab" />
 </div>
 
 <div align="center">
