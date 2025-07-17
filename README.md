@@ -1,7 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Abdeladim+Fadlane++%7C+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+SWE+;The+Swiss+Army+Knife+of+Tech+%F0%9F%9B%A0%EF%B8%8F+)](https://git.io/typing-svg)
-  </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Abdeladim+Fadlane++%7C+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+SWE+;The+Swiss+Army+Knife+of+Tech+%F0%9F%9B%A0%EF%B8%8F+" alt="Typing SVG" /></a>
 </p>
 
 ## 💻 Tech Stack:
