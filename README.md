@@ -1,7 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1&pause=1000&color=3FCEF7&center=true&width=435&height=100&lines=Hi%2C+I'm+Abdeladim+Fadlane+%F0%9F%91%8B;+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Developer" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Abdeladim+Fadlane++%7C+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+SWE+;The+Swiss+Army+Knife+of+Tech+%F0%9F%9B%A0%EF%B8%8F+)](https://git.io/typing-svg)
   </a>
 </p>
 
